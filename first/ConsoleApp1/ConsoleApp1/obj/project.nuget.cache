@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+GctJRRjA0oO0ji/vk9DFq0dic0+Cx+oVpT1XL/rOYCNVwIUKNayoDVqakibb0oaiAdI6oC/GzNN64hy5xQgbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fedor\\OneDrive\\Рабочий стол\\F#\\F-\\first\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedor\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
